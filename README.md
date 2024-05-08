@@ -43,139 +43,48 @@ Therefore, what is the metadata for our collected data? --->
 
 # Methodology
 
+General idea of methodology introduction: AI tools/ python/ manual work....
 
-## Assets
-
-```
-111
+## Collection
 
 ```
-
-## Assets (alternative)
-
-```
-Assets
-+---Art
-|   +---Materials
-|   +---Models      # FBX and BLEND files
-|   +---Music
-|   +---Prefabs
-|   +---Sound       # Samples and sound effects
-|   +---Textures
-|   +---UI
-+---Levels          # Unity scene files
-+---Src             # C# scripts and shaders
-|   +---Framework
-|   \---Shaders
-```
-
-## Scripts
-
-Use namespaces that match your directory structure.
-
-A Framework directory is great for having code that can be reused across projects.
-
-The Scripts folder varies depending on the project, however, `Environment`, `Framework`, `Tools` and `UI` should be consistent  across projects.
+Here introduce our collection approaches: use Browser plugin to acquire direct transcript from YouTube.
+Data collection process is needed to introduce
 
 ```
-Scripts
-+---Environment
-+---Framework
-+---NPC
-+---Player
-+---Tools
-\---UI
-```
 
-## Models
-
-Separate files from the modelling program and ready to use, exported models.
+## Cleaning
 
 ```
-Models
-+---Blend
-\---FBX
-```
-
-# Workflow
-
-## Models
-
-File extension: `FBX`
-
-Even though Unity supports Blender files by default, it is better to keep what is being worked on and what is a complete, exported model separate. This is also a must when using other software, such as Substance for texturing.
-
-Use `Y up`, `-Z forward` and `uniform scale` when exporting.
-
-## Textures
-
-File extension: `PNG`, `TIFF` or `HDR`
-
-Choose either a `Specularity/Glossiness` or `Roughness/Metallic` workflow. This depends on the software being used and what your artists are more comfortable with. Specularity maps have the advantage of being having the possibility to be RGB maps instead of grayscale (useful for tinted metals), apart from that there is little difference between the result from either workflow.
-
-### Texture Suffixes
-
-Suffix | Texture
-:------|:-----------------
-`_AL`  | Albedo
-`_SP`  | Specular
-`_R`   | Roughness
-`_MT`  | Metallic
-`_GL`  | Glossiness
-`_N`   | Normal
-`_H`   | Height
-`_DP`  | Displacement
-`_EM`  | Emission
-`_AO`  | Ambient Occlusion
-`_M`   | Mask
-
-### RGB Masks
-
-It is good practice to use a single texture to combine black and white masks in a single texture split by each RGB channel. Using this, most textures should have:
+Here introduce our cleaning approaches: Chatgpt --> python + manual work
 
 ```
-texture_AL.png  # Albedo
-texture_N.png   # Normal Map
-texture_M.png   # Mask
+
+## Analysis
+
+```
+Here introduce the annotation of data. How many annotation we have? Why chose this symbol? How we annotate the data? Criterion of judgement?
+
 ```
 
-Channel | Spec/Gloss        | Rough/Metal
-:-------|:------------------|:-----------
-R       | Specularity       | Roughness
-G       | Glossiness        | Metallic
-B       | Ambient Occlusion | Ambient Occlusion
+## Meaning of the columns in textual data
 
-#### The blue channel can vary depending on the type of material:
+```
+We need to set a excel table for further analyze the data. Therefore, the columns meaning is needed to explain.
 
- - For character materials use the `B` channel for *subsurface opacity/strength*
- - For anisotropic materials use the `B` channel for the *anisotropic direction map*
+```
 
-## Configuration Files
+# Discussion
 
-File extension: `INI`
+## Findings
 
-Fast and easy to parse, clean and easy to tweak.
+Tell the readers our findings of anaysis.
 
-`XML`, `JSON`, and `YAML` are also good alternatives, pick one and be consistent.
+## Discussion
 
-Use binary file formats for files that should not be changed by the player. For multiplayer games store configuration data on a secure server.
+Here put our final conclusion of the research. 
 
-## Localization
 
-File extension: `CSV`
+# Contributors
 
-Widely used by localization software, makes it trivial to edit strings using spreadsheets.
-
-## Audio
-
-File extension: `WAV` while mixing, `OGG` in game.
-
-Preload small sound clips to memory, load on the fly for longer music and less frequent ambient noise files.
-
-# Be Consistent
-
-> The point of having style guidelines is to have a common vocabulary of coding so people can concentrate on what you're saying rather than on how you're saying it. We present global style rules here so people know the vocabulary, but local style is also important. If code you add to a file looks drastically different from the existing code around it, it throws readers out of their rhythm when they go to read it. Avoid this.
-
--- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-
----
+put each member's contributions here.
