@@ -47,23 +47,8 @@ Therefore, what is the metadata for our collected data? --->
 ## Assets
 
 ```
-Assets
-+---Art
-|   +---Materials
-|   +---Models      # FBX and BLEND files
-|   +---Textures    # PNG files
-+---Audio
-|   +---Music
-|   \---Sound       # Samples and sound effects
-+---Code
-|   +---Scripts     # C# scripts
-|   \---Shaders     # Shader files and shader graphs
-+---Docs            # Wiki, concept art, marketing material
-+---Level           # Anything related to game design in Unity
-|   +---Prefabs
-|   +---Scenes
-|   \---UI
-\---Resources       # Configuration files, localization text and other user files.
+111
+
 ```
 
 ## Assets (alternative)
