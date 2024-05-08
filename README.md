@@ -3,9 +3,15 @@ LIN3046 Group Report: Female Discourse Research
 
 ### Introduction
 
-a. Descriptive Data
-b. Research Question(s) or problem addressed
+## Descriptive Data
 
+    Basic idea of our data.
+
+## Research Question(s) or problem addressed
+  a. A detailed description of the scope and the rationale of the project (which can be a research question or a general problem)
+  b. Potential use cases and future development
+  C. Relevant licensing issues and ethical concerns (if any) ---> AI?
+   
 # Table of Contents
 
 - [Dataset](#dataset)
