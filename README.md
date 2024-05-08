@@ -9,6 +9,9 @@ LIN3046 Group Report: Female Discourse Research
 
 ## Research Question(s) or problem addressed
   a. A detailed description of the scope and the rationale of the project (which can be a research question or a general problem)
+  ```
+  The aim of this project is to investigate and analyze the discourse features exhibited in the speech of women, with a particular focus on Emma Chamberlain's speaking style on YouTube. By examining her communication patterns and linguistic choices, we seek to gain insights into the unique characteristics and dynamics of female discourse.
+  ```
   b. Potential use cases and future development
   C. Relevant licensing issues and ethical concerns (if any) ---> AI?
    
