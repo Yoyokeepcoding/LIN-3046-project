@@ -1,7 +1,7 @@
 LIN3046 Group Report: Female Discourse Research
 ===========================
 
-### Introduction
+# Introduction
 
 ## Descriptive Data
 
