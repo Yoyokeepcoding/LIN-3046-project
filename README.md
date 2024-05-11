@@ -83,39 +83,58 @@ Here introduce our cleaning approaches: Chatgpt --> python + manual work
 ```
 
 ## Analysis
-
-```
 Basically, we have three types of annotations: fillers, tag questions and intensifiers. Here are the definitions of these three types of annotations.
 
 **1) Fillers:**
 
-2) Tag questions:
-
-3) Intensifiers: Intensifiers are adverbs or adverbial phrases that strengthen the meaning of other expressions and show emphasis. Words that we commonly use as intensifiers include absolutely, completely, extremely, highly, rather, really, so, too, totally, utterly, very and at all: She was so upset. I felt extremely sorry for her.
-
-he has a very strict teacher.
-
-Don’t work too hard. Sometimes you’ll get more done by relaxing a bit.
-
-I don’t think she understood the topic and her essay was rather a mess.
-
-She’s really offended her sister.
-
-At all is a very common intensifier with negative expressions:
-
-Are there no suitable DVDs at all?
-
-I’m afraid I’m not at all interested.
-
-We also use on earth and ever as intensifiers with wh-words:
-
-What on earth is he doing? (suggests disapproval)
-
-Why did I ever invite them to stay with us? (suggests that there were problems)
-
-Here introduce the annotation of data. How many annotation we have? Why chose this symbol? How we annotate the data? Criterion of judgement?
+Fillers play an important role in spoken language. A filler is any word or sound that interpolates (i.e., is inserted into) the main message of a speaker. Common fillers include “um”, “ah,” “like,” “so,” and “you know?” among others. Marked fillers will be defined as: 
 
 ```
+Like: This is probably the most common filler word. It is often used to buy time while the speaker is thinking of what to say next.
+Um: This is another very common filler word. It is often used to indicate hesitation or uncertainty.
+Uh: This is a shorter version of "um" and is often used in the same way.
+You know: This phrase is often used as a way to connect with the listener and make them feel like they are part of the conversation.
+So: This word is often used to introduce a new thought or idea.
+Well: This word is often used to indicate that the speaker is about to say something important.
+I mean: This phrase is often used to clarify or rephrase what the speaker has just said.
+And: This word is often used to connect two thoughts or ideas.
+But: This word is often used to introduce a contrast or a different perspective.
+Right: This word is often used to seek agreement from the listener.
+
+Uh-huh: This sound is often used to indicate agreement or understanding.
+Hmm: This sound is often used to indicate that the speaker is thinking.
+Er: This sound is often used to indicate hesitation or uncertainty.
+
+```
+
+**2) Tag questions:**
+
+A tag question is a construction in which an interrogative element is added to a declarative or an imperative clause. The resulting speech act comprises an assertion paired with a request for confirmation. For instance, the English tag question "You're John, aren't you?" consists of the declarative clause "You're John" and the interrogative tag "aren't you?".
+
+**3) Intensifiers:**
+
+
+Intensifiers are adverbs or adverbial phrases that strengthen the meaning of other expressions and show emphasis. Words that we commonly use as intensifiers include absolutely, completely, extremely, highly, rather, really, so, too, totally, utterly, very and at all:
+
+he has a _**very**_ strict teacher.
+
+Don’t work _**too**_ hard. Sometimes you’ll get more done by relaxing a bit.
+
+I don’t think she understood the topic and her essay was _**rather**_ a mess.
+
+She’s _**really**_ offended her sister.
+
+At all is a _**very**_ common intensifier with negative expressions:
+
+Are there no suitable DVDs _**at all**_?
+
+I’m afraid I’m not _**at all**_ interested.
+
+We also use on earth and _**ever**_ as intensifiers with wh-words:
+
+_**What on earth**_ is he doing? (suggests disapproval)
+
+Why did I _**ever**_ invite them to stay with us? (suggests that there were problems)
 
 ## Meaning of the columns in textual data
 
