@@ -83,7 +83,7 @@ Here introduce our cleaning approaches: Chatgpt --> python + manual work
 ```
 
 ## Analysis
-Basically, we have three types of annotations: fillers, tag questions and intensifiers. Here are the definitions of these three types of annotations.
+Basically, we have three types of annotations: fillers, tag questions, intensifiers and accent. Here are the definitions of these four types of annotations. 
 
 **1) Fillers:**
 
@@ -107,9 +107,19 @@ Er: This sound is often used to indicate hesitation or uncertainty.
 
 ```
 
+```
+We use "{}" to mark fillers. For example, "{Well}, I guess we could go to the park, or we could stay home and watch a movie."
+```
+
 **2) Tag questions:**
 
 A tag question is a construction in which an interrogative element is added to a declarative or an imperative clause. The resulting speech act comprises an assertion paired with a request for confirmation. For instance, the English tag question "You're John, aren't you?" consists of the declarative clause "You're John" and the interrogative tag "aren't you?".
+
+```
+We use "[]" to mark tag questions. For example, "You're coming with us, [aren't you]?"
+"He won't be late, [will he]?"
+"We had a great time, [didn't we]?"
+```
 
 **3) Intensifiers:**
 
@@ -136,6 +146,23 @@ _**What on earth**_ is he doing? (suggests disapproval)
 
 Why did I _**ever**_ invite them to stay with us? (suggests that there were problems)
 
+```
+We use "<>" to mark intensifier. For example, "That movie was <incredibly> good."
+"She’s <really> offended her sister."
+"I am <really> tired after a long day at work."
+```
+**4) Accent:**
+Basically, we distinguish British accent and American accent. We will mark the accent before speaker’s monologue.
+
+&a = American (General) 
+&b = British (BBC)
+
+```
+For example,
+&a
+"Good evening guys,..."
+
+```
 ## Meaning of the columns in textual data
 
 ```
