@@ -56,7 +56,9 @@ Here should be put our original transcrption (complete text or just an excerpt a
 
 ## Segmentation
 
-I’m not sure what this part actually contain?? Talk about how we cut the original transcript??
+Segmentation was an essential stage in our thorough data collection procedure that helped us break down the transcriptions into more manageable, relevant chunks. We used a variety of strategies and a combination of techniques since we understood how important segmentation was to efficiently organising and analysing the audio data. This allowed us to guarantee thorough segmentation based on specific needs.
+
+The overall length of every section was one of the factors we took into account when segmenting the data. We attempted to maintain the best possible readability and manageability by keeping each section concise. For example, we established a rule that said no more than ten words may be in a line. Following this recommendation allowed us to produce easily assimilated portions that made the transcription content analysis and comprehension process flow more smoothly.
 
 ## Metadata
 
@@ -186,4 +188,9 @@ Here put our final conclusion of the research.
 
 # Contributors
 
-put each member's contributions here.
+Shurti Gurung
+- [Dataset]
+    - [Transcription]
+    - [Segmentation]
+    - [Metadata]
+      
