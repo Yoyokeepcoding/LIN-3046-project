@@ -52,7 +52,10 @@ We utilised annotations to strengthen the dataset's quality. In order to add pre
 
 ## Transcription
 
-Here should be put our original transcrption (complete text or just an excerpt as an example???) 
+This link provides the original transcription of our data: 
+
+https://docs.google.com/document/d/1LqpQJNC6GmtvyfVm1V4jJ8-et1u2gKvRa2H-lj_o710/edit?usp=sharing 
+
 
 ## Segmentation
 
@@ -62,10 +65,13 @@ The overall length of every section was one of the factors we took into account 
 
 ## Metadata
 
-Metadata is 'data about data', which means a structured data excerpted from the information resource and be used to describe its characteristics and content. It is used to organize, describe, retrieve, preserve and manage information and knowledge resources.
+We focused in particular on collecting data from well-known female YouTubers who have made a substantial impact on the YouTube community throughout the data collection process. A significant number of people know these individuals because they provide interesting content, typically in the form of vlogs and podcasts that are lifestyle videos. By sharing details of their everyday lives in an open and transparent manner across these platforms, these renowned YouTubers provide viewers with insight into their daily lives and conversations about a range of topics.
 
-Therefore, what is the metadata for our collected data? --->
-? The general information about the youtuber we colleted ?? which type of youtuber? her video style/ vibe (may influence the discourse feature)? 
+These female YouTubers were specifically chosen because of their enormous influence and popularity, especially among Gen Z. They are the perfect candidates for our research on how girls communicate because of their widely shared material and large audience. We hope to learn important things about the speech patterns and ways of communicating, that are unique to this group of people by concentrating on these creative individuals.
+
+The choice to examine such widely recognised female YouTubers' methods of communication was driven by their abilities to grab the interest and attention of a diverse spectrum of viewers. They were a perfect fit for our study because of their relatable content and significant influence on modern culture. We thought that by studying their communication habits in great detail, we may learn important things about how girls express themselves, engage with their audience, and contribute to the changing aspect of interaction.
+
+Through an exploration of the varied material created by these female YouTubers, specifically their lifestyle vlogs and podcasts, our goal was to obtain a thorough grasp of the details and dynamics of female communication. Their willingness to engage with their audience, talk about relevant topics, and share personal stories gave us a special chance to examine the complexities on female communication.
 
 
 # Methodology
@@ -187,7 +193,6 @@ Here put our final conclusion of the research.
 
 
 # Contributors
-
 Shurti Gurung
 - [Dataset]
     - [Transcription]
