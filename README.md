@@ -44,8 +44,11 @@ This research has the potential to inform communication training programs, publi
 
 # Dataset
 
-Here should describe our basic idea of dataset. Introduce this part will contain those items:
-a. Transcription(Audio only) b. Segmentation c. Metadata d. Annotation
+We gathered information for our data collection procedure, primarily through podcasts and vlogs on YouTube. Merely the audio content transcriptions were the focus of our work. We separated the transcriptions into discrete time intervals or segments in order to efficiently organise the data.
+
+In particular, we looked at female YouTubers who are native English speakers, preferably those with American and British accents. The idea was to record conversations and exchanges about female communication styles. We wanted to generate a dataset that reflected the language patterns, as well as the unique ways that girls express themselves, by concentrating on these particular speakers.
+
+We utilised annotations to strengthen the dataset's quality. In order to add precise tags or labels which denote specific features or aspects inside the audio data, annotations were used. These annotations covered a wide range of topics, such as speech traits and the classification of particular accents, like British or American. Our goal in adding annotations was to add more levels of detail that would be useful for examinations, analysis, and the creation of tools that make good use of the dataset.
 
 ## Transcription
 
