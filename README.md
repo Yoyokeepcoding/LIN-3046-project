@@ -2,10 +2,21 @@ LIN3046 Group Report: Female Discourse Research
 ===========================
 
 # Introduction
+The study of female discourse is an important field of study that investigates the distinct language patterns, communication styles, and social dynamics that develop during discussions and interactions between women.  This research aims to better understand the effects language usage that female use, power relations, and the development of female identity and experience. Female discourse studies focuses on the ways in which women use language to negotiate difficult social and professional situations. This might entail looking at how women express themselves, develop rapport, and negotiate relationships using methods like indirectness, hedging, and collaborative communication. Scholars are also interested in studying how age, ethnicity, class, and cultural background interact with gender to influence women's communicating habits.
+
+Another major topic of study is the function of female speech in the development and expression of feminine identity. Researchers may look at how women use language to reject or comply to gender stereotypes, build in-group alliances, and challenge patriarchal hierarchies. The study of female narratives, personal storytelling, and the language of female-dominated areas can provide light on women's lived experiences.
+
+Key research concerns in female discourse include understanding how women utilise language to manage power dynamics, negotiate relationships, and express their agency in varied contexts?
+
+1. What role does female discourse play in the creation, expression, and possible alteration of feminine identity and experience?
+2. How do women's language patterns and communication practices alter throughout time, and
+3. what do these changes imply about larger social transformations in gender norms and power dynamics?
+
+By delving into these and other research concerns, female discourse can help us gain a better understanding of the subtle and multifaceted ways that gender influences language usage and social interaction.
 
 ## Descriptive Data
+The source of our data mainly came from YouTube videos such as vlogs or podcast narrated by girls.
 
-    Basic idea of our data.
 
 ## Research Question(s) or problem addressed
 
@@ -52,10 +63,13 @@ We utilised annotations to strengthen the dataset's quality. In order to add pre
 
 ## Transcription
 
-This link provides the original transcription of our data: 
+These links provides the original transcription of our raw data: 
 
+Our villain origin story
 https://docs.google.com/document/d/1LqpQJNC6GmtvyfVm1V4jJ8-et1u2gKvRa2H-lj_o710/edit?usp=sharing 
 
+VLOG | What I spend in a day as a 25yr old influencer living in London. 
+https://docs.google.com/document/d/17evEmMNqqfPXpBy_j1LF0hb87HO2sHX4mXb1QGGsvr0/edit?usp=sharing
 
 ## Segmentation
 
